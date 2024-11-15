@@ -1,6 +1,9 @@
 # Artistic-Images-using-Neural-Style-Transfer
 Using VGG-19 to apply style effect from style image to content image to genrate an artistic image
 
+![image](https://github.com/user-attachments/assets/c0703923-7132-46e5-bba0-df6de8eae689)
+
+
 ![WhatsApp Image 2024-07-05 at 00 12 02_d2d868d9](https://github.com/Anser2/Artistic-Images-using-Neural-Style-Transfer/assets/130187355/05d15e87-07ce-419b-bc17-2794358b63d6)
 
 ![WhatsApp Image 2024-07-05 at 00 13 55_2640e34f](https://github.com/Anser2/Artistic-Images-using-Neural-Style-Transfer/assets/130187355/948f18b1-70f4-4620-a460-4c71ae71221a)
